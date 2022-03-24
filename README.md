@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### Skills
 
 <div>
-  <img src="https://img.shields.io/badge/C3-1572B6?style=flat-square&logo=C3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-1572B6?style=flat-square&logo=C3&logoColor=white"/>

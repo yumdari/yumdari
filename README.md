@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3178C6?style=flat-square&logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-61DAFB?style=flat-square&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Arduino-8DD6F9?style=flat-square&logo=Arduino&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Microsoft SQL Server-C21325?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
 </div>

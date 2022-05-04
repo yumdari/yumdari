@@ -36,7 +36,7 @@ Programming Language
  database
  <div>
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB Foundation-003545?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB Foundation-003545?style=flat-square&logo=MariaDB Foundationr&logoColor=white"/>
  </div>
  Configuration Management
  <div>

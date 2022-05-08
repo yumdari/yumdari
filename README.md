@@ -31,7 +31,7 @@ Programming Language
  <div>
 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>
   
  </div>

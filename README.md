@@ -54,5 +54,7 @@ Programming Language
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 </div>
 <br>
-<br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumdari&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+ <div>
+https://github-readme-stats.vercel.app/api?username=yumdari)](https://github.com/yumdari/github-readme-stats
+  </div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumdari&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>

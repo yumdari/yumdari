@@ -49,3 +49,8 @@ Programming Language
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
   
 </div>
+<div>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumdari)](https://github.com/yumdari/github-readme-stats)
+  
+</div>

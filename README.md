@@ -37,5 +37,5 @@ Here are some ideas to get you started:
   </div> -->
   <div>
   
-[![yumdari's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumdari)](https://github.com/anuraghazra/github-readme-stats) <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumdari&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+[![yumdari's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumdari)](https://github.com/yumdari/github-readme-stats) <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumdari&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   </div>

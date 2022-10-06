@@ -1,6 +1,7 @@
 
 ## 기술 스택
 
+
 | <center>분류</center> |<center>기술 스택</center>|
 | :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *Languages & Code Rules*|<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://user-images.githubusercontent.com/91246353/194322261-655a7117-69db-42ab-a81c-0b75241018d4.png" width=20 height=20/><img src="https://img.shields.io/badge/MISRA C-862633?style=flat-square"/>|

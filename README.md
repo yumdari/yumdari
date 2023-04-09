@@ -4,7 +4,7 @@
 </div>
 <div align="center">
     
-    Automobile SW Developer - Diagnosis, Network, Optional Battery(P-LBM, eAGM), MCU
+    Automobile SW Developer - Diagnosis(OBD), Network(CAN, LIN), Auxiliary Battery(P-LBM, eAGM), MCU
 </div>
 </a> <a href="https://instagram.com/salt_hunny">
     <img 

@@ -4,7 +4,15 @@
 </div>
 <div align="center">
     
-    Automobile SW Developer - AUTOSAR, Network(CAN, LIN, Ethernet), MCU
+    Automobile SW Developer
+    시스템 사양 협의(CAN/Eth DB, NM, DTC 등)
+    - Built-In CAM CAN/Eth DB 관리
+    MCU SW 설계
+    - UART, I2C, LIN
+    - GPIO 제어 (PMIC, Switch, ADC 등)
+    - 동작 시나리오 개발
+    차량 및 진단 통신
+    - CAN, Ethernet, UDS, DoIP
 </div>
 </a> <a href="https://instagram.com/salt_hunny">
     <img 

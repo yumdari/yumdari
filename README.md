@@ -9,13 +9,9 @@
     - UART, CAN(HS, FD), LIN
     - 동작 시나리오 개발
     
-    차량 및 진단 통신
-    - EthDiag, DoIP
+    Ethernet 진단 통신
+    - UDS 기반 진단(EthDiag, DoIP)
 </div>
-</a> <a href="https://instagram.com/salt_hunny">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/salt_hunny/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     
 ## 기술 스택
 

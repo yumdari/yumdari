@@ -5,12 +5,13 @@
     
     Automobile SW Developer
     
-    AUTOSAR 기반 MCU SW 설계
+    AUTOSAR 기반 RTSW 개발
     - UART, CAN(HS, FD), LIN
     - 동작 시나리오 개발
     
-    Ethernet 진단 통신
-    - UDS 기반 진단(EthDiag, DoIP)
+    Ethernet IP Middleware 개발
+    - UDS Diag Application (EthDiag, DoIP)
+    - SOA Applicaiton (SOME/IP)
 </div>
     
 ## 기술 스택

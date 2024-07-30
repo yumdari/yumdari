@@ -24,7 +24,6 @@
 | *Debugger & Tester*|<img src="https://user-images.githubusercontent.com/91246353/194736114-dfeef2da-8494-46bc-ae8f-f983d1dffe63.png" width=20 height=20/><img src="https://img.shields.io/badge/TRACE32-152877?style=flat-square"/> <img src="https://user-images.githubusercontent.com/91246353/194736240-2b747fe3-337b-4614-9e05-18cecf0b338c.png" width=20 height=20/><img src="https://img.shields.io/badge/CANoe-B70032?style=flat-square"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/> |
 | *Version Control & Collaboration Tools*| <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>|
 | *OS*|<img src="https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>|
-| *Platform & Library*|<img src="https://user-images.githubusercontent.com/91246353/194324224-ae354cd2-4dcd-446c-a306-ae6ec60d3c51.png" width=30 height=20/><img src="https://img.shields.io/badge/AUTOSAR-FE0A1C?style=flat-square"/> |
 <br>
 
 ## Github Stats  

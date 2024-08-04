@@ -5,7 +5,7 @@
     
     Automobile SW Developer
     
-    AUTOSAR 기반 RTSW 개발
+    RTSW Development based of AUTOSAR Classic
     - UART, CAN(HS, FD), LIN
     - 동작 시나리오 개발
     

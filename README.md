@@ -9,7 +9,7 @@
     - UART, CAN(HS, FD), LIN
     - 동작 시나리오 개발
     
-    Ethernet IP Middleware 개발
+    Automotive Ethernet IP Middleware 개발
     - UDS Diag Application (EthDiag, DoIP)
     - SOA Applicaiton (SOME/IP)
 </div>

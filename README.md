@@ -5,13 +5,15 @@
     
     Automobile SW Developer
     
-    RTSW Development based on AUTOSAR Classic
-    - UART, CAN(HS, FD), LIN
-    - 동작 시나리오 개발
+    AUTOSAR Classic R40 with Mobilgene C Studio 1.0
+     - ASW Development
+     - ARXML Design
+     - In-house Instructor for Vietnam SW Research Institute
     
-    Automotive Ethernet IP Middleware 개발
-    - UDS Diag Application (EthDiag, DoIP)
-    - SOA Applicaiton (SOME/IP)
+    Automotive Diagnostics/Communication
+     - CAN (HS-CAN, CAN-FD)
+     - Ethernet (EthDiag, DoIP)
+   
 </div>
     
 ## 기술 스택

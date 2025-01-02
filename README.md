@@ -8,7 +8,7 @@
     AUTOSAR Classic R40 with Mobilgene C Studio 1.0
      - ASW Development
      - ARXML Design
-     - In-house Instructor for Vietnam SW Research Institute
+     - In-house Instructor
     
     Automotive Diagnostics/Communication
      - CAN (HS-CAN, CAN-FD)

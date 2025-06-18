@@ -18,6 +18,10 @@
      - Ethernet
        Diagnostics : EthDiag, DoIP
        Management : EthNM
+
+     Work Automation (RPA)
+      - MCU Build (ST, Renesas)
+      - H-OTA Rom Packaging
    
 </div>
     

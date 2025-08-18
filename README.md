@@ -8,15 +8,13 @@
     AUTOSAR Classic R40 with Mobilgene C Studio 1.0
      - ASW Development
      - ARXML Design
-     - SW Refactoring (ASW, ARXML)
-       Non-AUTOSAR Legacy -> AUTOSAR Standard 
-     - ASPICE Work (AD, UD)
      - In-house Instructor
     
     Automotive Diagnostics/Communication
      - CAN (HS-CAN, CAN-FD)
      - Ethernet
-       Diagnostics : EthDiag, DoIP
+       Network/Transport : EthDiag, DoIP
+       Application : UDS
        Management : EthNM
 
      Work Automation (RPA)

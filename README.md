@@ -12,7 +12,7 @@
     
     Automotive Diagnostics/Communication
      - CAN (HS-CAN, CAN-FD)
-     - Ethernet
+     - Ethernet (100/1000BASE-T1)
        Network/Transport : EthDiag, DoIP
        Application : UDS
        Management : EthNM
@@ -20,6 +20,7 @@
      Work Automation (RPA)
       - MCU Build (ST, Renesas)
       - H-OTA Rom Packaging
+      - H-OTA Package Upload
    
 </div>
     

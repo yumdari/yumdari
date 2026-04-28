@@ -2,7 +2,7 @@
 **Bridging Mechanical Engineering & Computer Science | Embedded SW & Communication Stack Architect**
 
 ## 🚀 Professional Summary
-- **Specialization:** AUTOSAR, Automotive Ethernet IP Middleware (DoIP/EthNM), & SW Automation.
+- **Specialization:** AUTOSAR, Automotive Ethernet IP Middleware (DoIP/EthNM), SW Automation.
 - **Key Achievement:** Ranked **2nd overall** in R&D Division (Silver Award) & Representative for **Best Practice** at Yura Corp.
 - **Academic:** B.S. in Computer Science (In Progress) | B.E. in Mechanical Engineering.
 - **Language:** English (TOEIC Speaking IH, 150) & Korean (Native).

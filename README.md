@@ -1,4 +1,4 @@
-# 👨‍💻 [Hun Yeom] | Embedded Software Engineer
+# 👨‍💻 Hun Yeom | Embedded Software Engineer
 **Bridging Mechanical Engineering & Computer Science | Embedded SW & Communication Stack Architect**
 
 ## 🚀 Professional Summary

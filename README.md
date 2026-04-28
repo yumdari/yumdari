@@ -51,7 +51,7 @@
 
 ### 🏅 External Projects
 * **Honorable Mention | 2024 Embedded Software Contest (Autonomous Driving Racing)**
-  - **Role: Team Leader** | [📂 View Repository](https://github.com/yumdari/your-repo-name)
+  - **Role: Team Leader** | [📂 View Repository](https://github.com/Embedded-Cartel/AWS_DeepRacer)
   - Spearheaded a team to develop autonomous driving software for **AWS DeepRacer** using the **AUTOSAR Adaptive Platform**.
   - Managed the entire development lifecycle, from system architecture design to software integration.
   - Implemented reinforcement learning models with **Service-Oriented Architecture (SOA)**, ensuring high-performance real-time data processing.

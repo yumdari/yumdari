@@ -1,52 +1,74 @@
-<div align="center">
+# 👨‍💻 [Your Name] | Embedded Software Engineer
+**Bridging Mechanical Engineering & Computer Science | Embedded SW & Communication Stack Architect**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyumdari%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-    
-    Automotive SW Developer
-    
-    AUTOSAR Classic R40 with Mobilgene C Studio 1.0
-     - ASW Development
-     - ARXML Design
-     - In-house Instructor
-    
-    Automotive Diagnostics/Communication
-     - CAN (HS-CAN, CAN-FD)
-     - Ethernet (100/1000BASE-T1)
-       Network/Transport : EthDiag, DoIP
-       Application : UDS
-       Management : EthNM
+## 🚀 Professional Summary
+- **Specialization:** AUTOSAR, Automotive Ethernet IP Middleware (DoIP/EthNM), & SW Automation.
+- **Key Achievement:** Ranked **2nd overall** in R&D Division (Silver Award) & Representative for **Best Practice** at Yura Corp.
+- **Academic:** B.S. in Computer Science (In Progress) | B.E. in Mechanical Engineering.
+- **Language:** English (TOEIC Speaking IH, 150) & Korean (Native).
 
-     Work Automation (RPA)
-      - MCU Build (ST, Renesas)
-      - H-OTA Rom Packaging
-      - H-OTA Package Upload
-   
-</div>
-    
-## 기술 스택
+---
 
-| <center>분류</center> |<center>항목</center>|
-| :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *Languages & Code Rules*|<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://user-images.githubusercontent.com/91246353/194736240-2b747fe3-337b-4614-9e05-18cecf0b338c.png" width=20 height=20/><img src="https://img.shields.io/badge/CAPL-B70032?style=flat-square"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/>|
-| *MCU*| <img src="https://user-images.githubusercontent.com/91246353/194317910-343d4bdd-7973-4802-9660-cc21083d02e1.png" width=30 height=20/><img src="https://img.shields.io/badge/RH850-29289D?style=flat-square"/> <img src="https://img.shields.io/badge/SPC560B-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/> <img src="https://user-images.githubusercontent.com/91246353/212485131-2c74b0b8-3734-462d-8d73-80fe928428a7.png" width=40 height=20/><img src="https://img.shields.io/badge/XC2200-0066B3?style=flat-square"/> |
-| *IDE*|<img src="https://user-images.githubusercontent.com/91246353/212485640-573b9d49-45c3-442d-915c-08423c91aef4.png" width=25 height=20/><img src="https://img.shields.io/badge/mobilgene-01B6ED?style=flat-square"/>  <img src="https://img.shields.io/badge/SPC5Studio-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/> <img src="https://user-images.githubusercontent.com/91246353/212485131-2c74b0b8-3734-462d-8d73-80fe928428a7.png" width=40 height=20/><img src="https://img.shields.io/badge/TASKING-0066B3?style=flat-square"/>|
-| *Debugging & Measurement*|<img src="https://user-images.githubusercontent.com/91246353/194736114-dfeef2da-8494-46bc-ae8f-f983d1dffe63.png" width=20 height=20/><img src="https://img.shields.io/badge/TRACE32-152877?style=flat-square"/> <img src="https://user-images.githubusercontent.com/91246353/194736240-2b747fe3-337b-4614-9e05-18cecf0b338c.png" width=20 height=20/><img src="https://img.shields.io/badge/CANoe-B70032?style=flat-square"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/> |
-| *Version Control & Collaboration Tools*| <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>|
-| *OS*|<img src="https://img.shields.io/badge/Windows11-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>|
-<br>
+## 📊 Github Stats  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=yumdari&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumdari&hide_border=true&layout=compact" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yumdari&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumdari&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yumdari&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🛠 Tech Stack
+- **Standards:** AUTOSAR Classic/Adaptive, A-SPICE Compliance
+- **Protocols:** DoIP, EthNM, SOME/IP, UDS (ISO 14229), CAN (HS, FD), Ethernet (100/1000BASE-T1)
+- **Languages:** C, C++, Python (AI/Automation), Shell Script
+- **Tools:** CI/CD (Jenkins), Git, Docker, Embedded Linux
+
+---
+
+## 🏆 Key Experience & Awards
+
+### 🏢 Yura Corporation | R&D Division
+* **AI-Driven Build & Packaging Automation**
+  - Reduced human error points (8 → 1) and saved ~$236K in annual labor costs.
+  - **Silver Award, Technical Innovation Merit** (Ranked 2nd overall in R&D, 2026).
+  - **Selected as Best Practice Representative** of R&D Headquarters (2025).
+* **In-house Development of Automotive Ethernet IP Middleware**
+  - Led in-house development of DoIP/EthNM stacks to eliminate royalty costs.
+* **Internal AUTOSAR Classic Instructor**
+  - Conducted technical training on AUTOSAR Architecture & A-SPICE compliance for SW Developer in Vietnam SW Research Institute.
+
+### 🏅 External Projects
+* **Honorable Mention | 2024 Embedded Software Contest (Autonomous Driving Racing)**
+  - **Role: Team Leader**
+  - Spearheaded a team to develop autonomous driving software for **AWS DeepRacer** using the **AUTOSAR Adaptive Platform**.
+  - Managed the entire development lifecycle, from system architecture design to software integration.
+  - Implemented reinforcement learning models with **Service-Oriented Architecture (SOA)**, ensuring high-performance real-time data processing.
+
+### 💻 Personal Projects by IGEG Lab.
+*Dedicated to data-driven software solutions.*
+* **Social Interaction & Chemistry Analysis Platform (Sundae)**
+  - **Infrastructure:** Self-hosted on **Raspberry Pi 4** (Home Server).
+  - **Key Achievement:** Successfully managed a private community with 4,700+ cumulative visitors, ensuring system stability and data privacy.
+  - **Key Features:** Developed an analysis tool for social group dynamics based on conversation patterns, MBTI, and Saju.
+  - **Status:** Private Service (Live demo/URL available upon request for interview purposes).    
+* **Multi-Market Investment Portfolio Manager (Ourfolio)**
+  - **URL:** [ourfolio.vercel.app](https://ourfolio.vercel.app/)
+  - **Tech Stack:** React, Node.js, PostgreSQL.
+  - **Deployment:** Vercel (FE), Render (BE).
+  - **Key Features:** Integrated real-time tracking for KOSPI/KOSDAQ, NASDAQ, and Cryptocurrency assets with optimized data synchronization.
+---
+
+## 📜 Certifications
+- **Engineer Information Security** (2024, Candidate)
+- **Engineer Information Processing** (2022)
+- **Linux Master, Level 2** (2022)

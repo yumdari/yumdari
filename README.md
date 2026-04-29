@@ -28,11 +28,11 @@
 ---
 
 ## 🛠 Tech Stack
-- **Standards:** AUTOSAR Classic/Adaptive, A-SPICE Compliance
-- **Protocols:** DoIP, EthNM, SOME/IP, UDS (ISO 14229), CAN (HS, FD), Ethernet (100/1000BASE-T1)
 - **Languages:** C, C++, Python
-- **Tools:** CI/CD (Jenkins), Git, Embedded Linux
-
+- **Standards:** AUTOSAR Classic/Adaptive, A-SPICE
+- **Protocols:** DoIP, EthNM, SOME/IP, UDS (ISO 14229), CAN (HS, FD), Ethernet (100/1000BASE-T1)
+- **Hardware:** Renesas RH850, Raspberry Pi 4, Jetson Nano
+- **Tools:** CANoe, Git, Wireshark, Jenkins
 ---
 
 ## 🏆 Key Experience & Awards

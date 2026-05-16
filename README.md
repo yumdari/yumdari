@@ -60,7 +60,7 @@
 *Dedicated to data-driven software solutions.*
 * **Social Interaction & Chemistry Analysis Platform (Sundae)**
   - **Infrastructure:** Self-hosted on **Raspberry Pi 4** (Home Server).
-  - **Key Achievement:** Successfully managed a private community with 4,700+ cumulative visitors, ensuring system stability and data privacy.
+  - **Key Achievement:** Successfully managed a private community with 5,400+ cumulative visitors, ensuring system stability and data privacy.
   - **Key Features:** Developed an analysis tool for social group dynamics based on conversation patterns, MBTI, and Saju.
   - **Status:** Private Service (Live demo/URL available upon request for interview purposes).    
 * **Multi-Market Investment Portfolio Manager (Ourfolio)**

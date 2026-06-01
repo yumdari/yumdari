@@ -68,7 +68,7 @@
   - **Tech Stack:** React(FE), Node.js(BE), PostgreSQL(DB).
   - **Deployment:** Vercel (FE), Render (BE).
   - **Key Features:** Integrated real-time tracking for KOSPI/KOSDAQ, NASDAQ, and Cryptocurrency assets with optimized data synchronization.
-* ** NoteMatch : Scent & Sip Curator**
+* **NoteMatch : Scent & Sip Curator**
   - **URL:** [notematch.vercel.app](https://notematch.vercel.app/)
   - **Tech Stack:** React(FE), Node.js(FE), Node.js(BE), JavaScript(BE)
   - **Deployment:** Vercel (FE), Render (BE).

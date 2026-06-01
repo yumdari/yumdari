@@ -44,7 +44,7 @@
   - **Selected as Best Practice Representative** of R&D Headquarters (2025).
 * **In-house Development of Automotive Ethernet IP Middleware**
   - Led in-house development of DoIP/EthNM stacks to eliminate royalty costs.
-* **AUTOSAR Refactoring (A-SPICE Compliance)**
+* **AUTOSAR Refactoring (ASPICE Compliance)**
   - Transitioned legacy software to AUTOSAR Classic Architecture.
 * **Internal AUTOSAR Classic Instructor**
   - Conducted technical training on AUTOSAR Architecture & A-SPICE compliance for SW Developer in Vietnam SW Research Institute.
@@ -58,16 +58,21 @@
 
 ### 💻 Personal Projects by IGEG Lab.
 *Dedicated to data-driven software solutions.*
-* **Social Interaction & Chemistry Analysis Platform (Sundae)**
+* **Sundae : Social Interaction & Chemistry Analysis Platform**
   - **Infrastructure:** Self-hosted on **Raspberry Pi 4** (Home Server).
-  - **Key Achievement:** Successfully managed a private community with 5,400+ cumulative visitors, ensuring system stability and data privacy.
+  - **Key Achievement:** Successfully managed a private community with 6,000+ cumulative visitors, ensuring system stability and data privacy.
   - **Key Features:** Developed an analysis tool for social group dynamics based on conversation patterns, MBTI, and Saju.
   - **Status:** Private Service (Live demo/URL available upon request for interview purposes).    
-* **Multi-Market Investment Portfolio Manager (Ourfolio)**
+* **Ourfolio : Multi-Market Investment Portfolio Manager**
   - **URL:** [ourfolio.vercel.app](https://ourfolio.vercel.app/)
-  - **Tech Stack:** React, Node.js, PostgreSQL.
+  - **Tech Stack:** React(FE), Node.js(BE), PostgreSQL(DB).
   - **Deployment:** Vercel (FE), Render (BE).
   - **Key Features:** Integrated real-time tracking for KOSPI/KOSDAQ, NASDAQ, and Cryptocurrency assets with optimized data synchronization.
+* ** NoteMatch : Scent & Sip Curator**
+  - **URL:** [notematch.vercel.app](https://notematch.vercel.app/)
+  - **Tech Stack:** React(FE), Node.js(FE), Node.js(BE), JavaScript(BE)
+  - **Deployment:** Vercel (FE), Render (BE).
+  - **Key Features:** curation service that matches a user's everyday sensory preferences—such as coffee roast levels, favorite spatial environments, and food tastes—with their perfect pair of premium perfumes and whiskies.
 ---
 
 ## 📜 Certifications

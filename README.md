@@ -41,7 +41,7 @@
 * **SW Build & Packaging Automation**
   - Reduced human error points (8 → 1) and saved ~$236K in annual labor costs.
   - **Silver Award, Technical Innovation Merit** (Ranked 2nd overall in R&D, 2026).
-  - **Selected as Best Practice Representative** of R&D Headquarters (2025).
+  - **Best Practice** Representative, R&D Headquarters (2025).
 * **In-house Development of Automotive Ethernet IP Middleware**
   - Led in-house development of DoIP/EthNM stacks to eliminate royalty costs.
 * **AUTOSAR Refactoring (ASPICE Compliance)**

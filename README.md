@@ -1,5 +1,5 @@
 # 👨‍💻 Hun Yeom | Embedded Software Engineer
-**Bridging Mechanical Engineering & Computer Science | Embedded SW & Communication Stack Architect**
+**Academic: M.Eng. in Applied AI | B.E. in Mechanical Engineering | Embedded SW & Communication Stack Architect**
 
 ## 🚀 Professional Summary
 - **Specialization:** AUTOSAR, Automotive Ethernet IP Middleware (DoIP/EthNM), SW Automation.

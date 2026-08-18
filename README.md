@@ -7,8 +7,6 @@
 - **Academic:** M.Eng. in Applied AI (In Progress) | B.Eng. in Mechanical Engineering.
 - **Language:** English (TOEIC Speaking IH, 150) & Korean (Native).
 
----
-
 <!-- 
 ## 📊 Github Stats  
 <table>
@@ -21,7 +19,6 @@
     </td>
   </tr>
 </table>
--->
  
 <br/>
 
@@ -36,7 +33,7 @@
 - **Protocols:** DoIP, EthNM, UDS (ISO 14229), CAN (HS, FD), Ethernet (100/1000BASE-T1), (Project experience)
 - **Hardware:** Qualcomm SA6145P (aarch64), Renesas RH850, Raspberry Pi 4, Jetson Nano
 - **Tools:** CANoe, Git, Wireshark, Jenkins, Trace32, CMake
----
+-->
 
 ## 🏆 Key Experience & Awards
 
@@ -57,13 +54,12 @@
 * **Internal AUTOSAR Classic Instructor**
   - Conducted technical training on AUTOSAR Classic architecture and ASPICE practices for software developers at the Vietnam SW Research Institute.
 
-### 🏅 External Projects
+## 🏅 External Projects
 * **Honorable Mention | 2024 Embedded Software Contest (Autonomous Driving Racing)**
   - **Role: Team Leader** | [📂 View Repository](https://github.com/Embedded-Cartel/AWS_DeepRacer)
   - Spearheaded a team to develop autonomous driving software for **AWS DeepRacer** using the **AUTOSAR Adaptive Platform**.
   - Managed the entire development lifecycle, from system architecture design to software integration.
   - Designed and implemented Adaptive AUTOSAR applications and service-oriented communication architecture for an autonomous driving platform.
----
 
 ## 📜 Certifications
 - **Engineer Information Processing** (2022)
